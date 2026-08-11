@@ -3,8 +3,8 @@
 "name": "geo_08_地域密着型特定施設入居者生活介護（有料老人ホーム）",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "内容": "牛久コスモス園【地域密着型特定施設入居者生活介護（有料老人ホーム）】茨城県牛久市小坂町3388-1", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0891900011-00&ServiceCd=361&Type=search", "url2": "info@wakatake-kai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.196802299999945, 35.9714462 ] } },
-{ "type": "Feature", "properties": { "内容": "介護付き　有料老人ホーム　柏田ヒルズ【地域密着型特定施設入居者生活介護（有料老人ホーム）】茨城県牛久市上柏田４丁目５３番地１０", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0891900078-00&ServiceCd=361&Type=search", "url2": "http://www.centralweb.sakura.ne.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.159364200000027, 35.9827303 ] } },
-{ "type": "Feature", "properties": { "内容": "きららみかげの里【地域密着型特定施設入居者生活介護（有料老人ホーム）】茨城県桜川市真壁町桜井１３２５番地", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0895100097-00&ServiceCd=361&Type=search", "url2": "https://t-goodlife.jp/kirara-mikagenosato" }, "geometry": { "type": "Point", "coordinates": [ 140.112277650926245, 36.27971871302676 ] } }
+{ "type": "Feature", "properties": { "内容": "牛久コスモス園【地域密着型特定施設入居者生活介護（有料老人ホーム）】茨城県牛久市小坂町3388-1", "url2": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0891900011-00&ServiceCd=361&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 140.196802299999945, 35.9714462 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付き　有料老人ホーム　柏田ヒルズ【地域密着型特定施設入居者生活介護（有料老人ホーム）】茨城県牛久市上柏田４丁目５３番地１０", "url2": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0891900078-00&ServiceCd=361&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 140.159364200000027, 35.9827303 ] } },
+{ "type": "Feature", "properties": { "内容": "きららみかげの里【地域密着型特定施設入居者生活介護（有料老人ホーム）】茨城県桜川市真壁町桜井１３２５番地", "url2": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0895100097-00&ServiceCd=361&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 140.112277650926245, 36.27971871302676 ] } }
 ]
 }

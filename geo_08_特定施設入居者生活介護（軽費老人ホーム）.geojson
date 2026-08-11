@@ -3,8 +3,8 @@
 "name": "geo_08_特定施設入居者生活介護（軽費老人ホーム）",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "内容": "ケアハウス　下総プリンスクラブ【特定施設入居者生活介護（軽費老人ホーム）】茨城古河市小堤1796-2ケアハウス　下総プリンスクラブ", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0870401411-00&ServiceCd=332&Type=search", "url2": "http://hakueisou.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 139.763466699999981, 36.2016169 ] } },
-{ "type": "Feature", "properties": { "内容": "ケアハウス　ゼーレ【特定施設入居者生活介護（軽費老人ホーム）】茨城県石岡市石岡２７４８－１", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0870500725-00&ServiceCd=332&Type=search", "url2": "http://www.carehouse-seele.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.2951577, 36.19747 ] } },
-{ "type": "Feature", "properties": { "内容": "筑波キングス・ガーデン　ケアハウス【特定施設入居者生活介護（軽費老人ホーム）】茨城県常総市大生郷町1818-1筑波キングス・ガーデン　ケアハウス", "url": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0871100632-00&ServiceCd=332&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 139.949130100000048, 36.0672322 ] } }
+{ "type": "Feature", "properties": { "内容": "ケアハウス　下総プリンスクラブ【特定施設入居者生活介護（軽費老人ホーム）】茨城古河市小堤1796-2ケアハウス　下総プリンスクラブ", "url2": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0870401411-00&ServiceCd=332&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 139.763466699999981, 36.2016169 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス　ゼーレ【特定施設入居者生活介護（軽費老人ホーム）】茨城県石岡市石岡２７４８－１", "url2": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0870500725-00&ServiceCd=332&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 140.2951577, 36.19747 ] } },
+{ "type": "Feature", "properties": { "内容": "筑波キングス・ガーデン　ケアハウス【特定施設入居者生活介護（軽費老人ホーム）】茨城県常総市大生郷町1818-1筑波キングス・ガーデン　ケアハウス", "url2": "https://www.kaigokensaku.mhlw.go.jp/08/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0871100632-00&ServiceCd=332&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 139.949130100000048, 36.0672322 ] } }
 ]
 }
